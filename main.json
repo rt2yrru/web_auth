@@ -2,5 +2,6 @@
   "auth":"false",
   "mp_data":"NuLl",
   "dt_time":"Null_Null"
-  "code":400
+  "code":"400",
+  "pragma":"mock_data"
   }
